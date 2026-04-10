@@ -1,194 +1,178 @@
-<!-- HEADER BANNER -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,70:24243e,100:0f0c29&height=220&section=header&text=Rakesh%20Honawad&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=🚀%20Software%20Developer%20%7C%20🤖%20AI%20Enthusiast%20%7C%20⚙️%20Backend%20Engineer&descAlignY=62&descSize=17&animation=twinkling" />
-</div>
+<!-- HEADER BANNER — plain image, NOT a link -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:24243e&height=220&section=header&text=Rakesh%20Honawad&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=🚀%20Software%20Developer%20%7C%20🤖%20AI%20Enthusiast%20%7C%20⚙️%20Backend%20Engineer&descAlignY=60&descSize=16&animation=twinkling" />
 
-<!-- ANIMATED TYPING -->
+<!-- TYPING ANIMATION — plain image, NOT a link -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=700&color=A855F7&center=true&vCenter=true&multiline=false&width=750&lines=Building+things+that+scale+to+millions+%F0%9F%9A%80;Shipping+AI-powered+products+%F0%9F%A4%96;From+Bengaluru+with+%E2%9D%A4%EF%B8%8F+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
-
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Rakesh-honawad&label=Profile+Views&color=a855f7&style=for-the-badge)](https://github.com/Rakesh-honawad)
-[![GitHub followers](https://img.shields.io/github/followers/Rakesh-honawad?label=Followers&style=for-the-badge&color=6366f1&labelColor=0f0c29)](https://github.com/Rakesh-honawad?tab=followers)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-a855f7?style=for-the-badge&labelColor=0f0c29)](https://rakeshhonawad.vercel.app)
-
-</div>
-
-<br/>
-
----
-
-<!-- ABOUT ME — Visual cards not code block -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> About Me
-
-<div align="center">
-
-<table border="0" cellpadding="10">
-<tr>
-<td width="55%" valign="top">
-
-### 👋 Hey, I'm Rakesh!
-
-A passionate **Software Developer & AI Enthusiast** from Bengaluru 🇮🇳, obsessed with building systems that are fast, scalable, and smart.
-
-- 🔭 **Building** → Scalable backends + LLM-integrated apps
-- 🤖 **AI Focus** → RAG pipelines, real-time inference, LLM products
-- 🌱 **Learning** → Kubernetes, Microservices, Advanced AI Systems
-- 💡 **Ask me about** → Java, Spring Boot, Node.js, System Design
-- 🎯 **Goal** → Ship products that make a real-world impact
-- ⚡ **Fun fact** → I turn messy real-world problems into clean scalable code 🚀
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/rakesh-honawad)
-[![Gmail](https://img.shields.io/badge/Gmail-Mail_Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rakeshhonawad46@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-a855f7?style=flat-square&logo=firefox&logoColor=white)](https://rakeshhonawad.vercel.app)
-
-</td>
-<td width="45%" align="center" valign="top">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="border-radius: 12px;" alt="coding gif" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=750&lines=Building+things+that+scale+to+millions+%F0%9F%9A%80;Shipping+AI-powered+real-world+products+%F0%9F%A4%96;Backend+%2B+AI+%3D+The+future+%E2%9C%A8;Open+to+collaborate+%E2%80%94+let%27s+build+together+%F0%9F%91%8B" alt="Typing SVG" />
 
 <br/><br/>
 
-![](https://img.shields.io/badge/Focus-Backend%20%2B%20AI-a855f7?style=flat-square&labelColor=0f0c29)
-![](https://img.shields.io/badge/Lives-Bengaluru%20🇮🇳-6366f1?style=flat-square&labelColor=0f0c29)
-![](https://img.shields.io/badge/Status-Open%20to%20Collaborate-22c55e?style=flat-square&labelColor=0f0c29)
-
-</td>
-</tr>
-</table>
+<!-- THESE 3 ARE INTENTIONALLY CLICKABLE — they go somewhere useful -->
+<a href="https://github.com/Rakesh-honawad"><img src="https://komarev.com/ghpvc/?username=Rakesh-honawad&label=Profile+Views&color=a855f7&style=for-the-badge" alt="profile views"/></a>
+<a href="https://github.com/Rakesh-honawad?tab=followers"><img src="https://img.shields.io/github/followers/Rakesh-honawad?label=Followers&style=for-the-badge&color=6366f1&labelColor=1a1a2e" alt="followers"/></a>
+<a href="https://rakeshhonawad.vercel.app"><img src="https://img.shields.io/badge/🌐%20Portfolio-rakeshhonawad.vercel.app-a855f7?style=for-the-badge&labelColor=1a1a2e" alt="portfolio"/></a>
 
 </div>
 
+<br/>
+
 ---
 
-<!-- TECH STACK — Compact with skillicons -->
+## 👨‍💻 About Me
+
+<!-- GIF — plain image, NOT a link -->
+<img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+### Hey there! I'm Rakesh 👋
+
+A **Software Developer & AI Enthusiast** from Bengaluru 🇮🇳 who loves building systems that are **fast, scalable, and intelligent**.
+
+- 🔭 &nbsp;**Currently building** → Scalable backends + LLM-integrated apps
+- 🤖 &nbsp;**AI Focus** → RAG pipelines, real-time inference, LLM products
+- 🌱 &nbsp;**Learning** → Kubernetes, Microservices, Advanced AI Systems
+- 💡 &nbsp;**Ask me about** → Java · Spring Boot · Node.js · System Design
+- 🎯 &nbsp;**Goal** → Ship products that create real-world impact
+- ⚡ &nbsp;**Fun fact** → I turn messy problems into clean scalable code 🚀
+
+<br/>
+
+<!-- THESE ARE INTENTIONALLY CLICKABLE — contact/social links -->
+<a href="https://linkedin.com/in/rakesh-honawad"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="mailto:rakeshhonawad46@gmail.com"><img src="https://img.shields.io/badge/Gmail-Mail%20Me-D14836?style=flat-square&logo=gmail&logoColor=white" alt="gmail"/></a>
+<a href="https://rakeshhonawad.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-a855f7?style=flat-square&logo=firefox&logoColor=white" alt="portfolio"/></a>
+
+<br clear="right"/>
+
+---
+
 ## ⚡ Tech Stack
+
+<!-- ALL TECH ICONS BELOW ARE PLAIN IMAGES — NOT clickable, just display -->
 
 <div align="center">
 
 **Languages**
-
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,go,cpp&theme=dark&perline=6" />
+<br/>
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,go,cpp&theme=dark&perline=6" alt="languages"/>
 
 <br/><br/>
 
-**Backend · Frameworks · APIs**
-
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi,django,flask&theme=dark&perline=6" />
+**Backend & Frameworks**
+<br/>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi,django,flask&theme=dark&perline=6" alt="backend"/>
 
 <br/><br/>
 
 **Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite,html,css&theme=dark&perline=6" />
+<br/>
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite,html,css&theme=dark&perline=6" alt="frontend"/>
 
 <br/><br/>
 
 **Databases**
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,sqlite&theme=dark&perline=6" />
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,sqlite&theme=dark&perline=6" alt="databases"/>
 
 <br/><br/>
 
 **Cloud · DevOps · Infra**
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,nginx,githubactions,linux&theme=dark&perline=8" />
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,nginx,githubactions,linux&theme=dark&perline=8" alt="devops"/>
 
 <br/><br/>
 
-**AI · ML**
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark&perline=6" />
+**AI / ML**
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark&perline=6" alt="ai"/>
 &nbsp;
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white&labelColor=0f0c29"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white&labelColor=0f0c29"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white&labelColor=1a1a2e" alt="sklearn"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white&labelColor=1a1a2e" alt="langchain"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=1a1a2e" alt="numpy"/>
 
 </div>
 
 ---
 
-<!-- PROJECTS -->
 ## 🚀 Featured Projects
 
+<!-- PROJECT CARDS — INTENTIONALLY CLICKABLE, they go to the actual repos -->
 <div align="center">
 
 <a href="https://github.com/Rakesh-honawad/MystiGlyph">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakesh-honawad&repo=MystiGlyph&theme=midnight-purple&hide_border=true&show_owner=false" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakesh-honawad&repo=MystiGlyph&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a855f7&icon_color=6366f1" alt="MystiGlyph"/>
 </a>
 <a href="https://github.com/Rakesh-honawad/ProcureFlow-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakesh-honawad&repo=ProcureFlow-AI&theme=midnight-purple&hide_border=true&show_owner=false" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakesh-honawad&repo=ProcureFlow-AI&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a855f7&icon_color=6366f1" alt="ProcureFlow-AI"/>
 </a>
+
+<br/>
 
 <a href="https://github.com/Rakesh-honawad/loan-eligibility-engine">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakesh-honawad&repo=loan-eligibility-engine&theme=midnight-purple&hide_border=true&show_owner=false" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakesh-honawad&repo=loan-eligibility-engine&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a855f7&icon_color=6366f1" alt="loan-eligibility-engine"/>
 </a>
-<a href="https://github.com/Rakesh-honawad/django_website-online-exam-proctering-system-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakesh-honawad&repo=django_website-online-exam-proctering-system-&theme=midnight-purple&hide_border=true&show_owner=false" />
+<a href="https://github.com/Rakesh-honawad/Portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakesh-honawad&repo=Portfolio&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a855f7&icon_color=6366f1" alt="Portfolio"/>
 </a>
 
 </div>
 
 ---
 
-<!-- GITHUB STATS -->
 ## 📊 GitHub Stats
 
+<!-- STATS IMAGES — plain images, NOT links -->
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rakesh-Honawad&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&bg_color=0d0d1a" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Rakesh-Honawad&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d0d1a&title_color=a855f7&icon_color=6366f1&text_color=c4b5fd" height="170" alt="stats"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh-Honawad&theme=midnight-purple&hide_border=true&layout=compact&langs_count=8&bg_color=0d0d1a" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh-Honawad&theme=midnight-purple&hide_border=true&layout=compact&langs_count=8&bg_color=0d0d1a&title_color=a855f7&text_color=c4b5fd" height="170" alt="top langs"/>
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Rakesh-Honawad&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=a855f7&fire=f093fb&currStreakLabel=a855f7" width="55%"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=Rakesh-Honawad&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=a855f7&fire=f093fb&currStreakLabel=a855f7&sideLabels=6366f1" width="55%" alt="streak"/>
 
 </div>
 
 ---
 
-<!-- TROPHIES -->
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
+<!-- TROPHY IMAGE — plain image, NOT a link -->
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rakesh-Honawad&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+<img src="https://github-profile-trophy.vercel.app/?username=Rakesh-Honawad&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4" alt="trophies"/>
 
 </div>
 
 ---
 
-<!-- CONTRIBUTION GRAPH -->
-## 📈 My Contribution Graph
+## 📈 Contribution Activity
 
+<!-- GRAPH — plain image, NOT a link -->
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakesh-Honawad&bg_color=0d0d1a&color=a855f7&line=6366f1&point=f093fb&area=true&area_color=a855f730&hide_border=true&custom_title=Rakesh's%20Contribution%20Graph&radius=8" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakesh-Honawad&bg_color=0d0d1a&color=a855f7&line=6366f1&point=f093fb&area=true&area_color=a855f720&hide_border=true&custom_title=Rakesh's%20Contribution%20Graph&radius=6" width="95%" alt="contribution graph"/>
 
 </div>
 
 ---
 
-<!-- SOCIALS -->
-## 🌐 Find Me Online
+## 🌐 Connect With Me
 
+<!-- SOCIAL BUTTONS — INTENTIONALLY CLICKABLE, these go to real profiles -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rakesh-honawad)
-[![Portfolio](https://img.shields.io/badge/Portfolio-a855f7?style=for-the-badge&logo=firefox&logoColor=white)](https://rakeshhonawad.vercel.app)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakeshhonawad46@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/raki_1432_)
-[![X](https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/raki_1432_)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/rakesh.honawad.31)
+<a href="https://linkedin.com/in/rakesh-honawad"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://rakeshhonawad.vercel.app"><img src="https://img.shields.io/badge/Portfolio-a855f7?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:rakeshhonawad46@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://instagram.com/raki_1432_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://x.com/raki_1432_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://facebook.com/rakesh.honawad.31"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 
 </div>
 
 <br/>
 
-<!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,70:24243e,100:0f0c29&height=130&section=footer&animation=twinkling"/>
+<!-- FOOTER WAVE — plain image, NOT a link -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,40:302b63,100:0f0c29&height=130&section=footer&animation=twinkling" alt="footer"/>
