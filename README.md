@@ -37,45 +37,26 @@ A **Software Developer & AI Enthusiast** from Bengaluru 🇮🇳 who loves build
 <br clear="right"/>
 
 ---
-
 ## ⚡ Tech Stack
 
 <div align="center">
 
-<!-- LANG + BACKEND -->
-<h4>Languages & Backend</h4>
-
-<img src="https://skillicons.dev/icons?i=java,go,python,ts,spring,nodejs,fastapi&theme=light&perline=7" />
-
-<br/><br/>
-
-<!-- FRONTEND + DATA -->
-<h4>Frontend & Data</h4>
-
-<img src="https://skillicons.dev/icons?i=react,tailwind,postgres,mongodb,redis&theme=light&perline=5" />
-
-<br/><br/>
-
-<!-- INFRA -->
-<h4>Cloud & DevOps</h4>
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,linux,githubactions&theme=light&perline=6" />
-
-<br/><br/>
-
-<!-- AI -->
-<h4>AI / ML</h4>
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=light&perline=3" />
-
-<br/><br/>
-
-<!-- EXTRA (BADGES SMALLER + CLEAN) -->
-<p>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-</p>
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=java,go,python,ts,c,cpp,spring,nodejs,express,fastapi,flask,hibernate&theme=light&perline=8" />
+</a>
+<br/>
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,vite,yarn,postgres,mysql,mongodb,redis,firebase&theme=light&perline=8" />
+</a>
+<br/>
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,nginx,vercel,netlify,githubactions,linux,git,postman,maven,eclipse,swagger&theme=light&perline=8" />
+</a>
+<br/>
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=light&perline=8" />
+</a>
+<br/>
 
 </div>
 ---
