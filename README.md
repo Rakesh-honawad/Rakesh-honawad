@@ -43,49 +43,7 @@ A **Software Developer & AI Enthusiast** from Bengaluru 🇮🇳 who loves build
 
 ---
 
-## ⚡ Tech Stack
-
-<div align="center">
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,go,cpp&theme=dark&perline=6" alt="languages"/>
-
-<br/><br/>
-
-**Backend & Frameworks**
-<br/>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi,django,flask&theme=dark&perline=6" alt="backend"/>
-
-<br/><br/>
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite,html,css&theme=dark&perline=6" alt="frontend"/>
-
-<br/><br/>
-
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,sqlite&theme=dark&perline=6" alt="databases"/>
-
-<br/><br/>
-
-**Cloud · DevOps · Infra**
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,nginx,githubactions,linux&theme=dark&perline=8" alt="devops"/>
-
-<br/><br/>
-
-**AI / ML**
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark&perline=6" alt="ai"/>
-&nbsp;
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white&labelColor=1a1a2e" alt="sklearn"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white&labelColor=1a1a2e" alt="langchain"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=1a1a2e" alt="numpy"/>
-
-</div>
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/tech-stack.svg" />
 
 ---
 
