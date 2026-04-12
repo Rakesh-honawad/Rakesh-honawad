@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<a href="https://github.com/Rakesh-honawad"><img src="https://komarev.com/ghpvc/?username=Rakesh-honawad&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="profile views"/></a>
+<a href="https://github.com/Rakesh-honawad"><img src="https://komarev.com/ghpvc/?username=Rakesh-honawad&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="profile viewers"/></a>
 <a href="https://github.com/Rakesh-honawad?tab=followers"><img src="https://img.shields.io/github/followers/Rakesh-honawad?label=Followers&style=for-the-badge&color=8b5cf6&labelColor=1a1a2e" alt="followers"/></a>
 <a href="https://rakeshhonawad.vercel.app"><img src="https://img.shields.io/badge/🌐%20Portfolio-rakeshhonawad.vercel.app-a855f7?style=for-the-badge&labelColor=1a1a2e" alt="portfolio"/></a>
 
@@ -43,7 +43,19 @@ A **Software Developer & AI Enthusiast** from Bengaluru 🇮🇳 who loves build
 
 ---
 
-<img src="https://raw.githubusercontent.com/Rakesh-honawad/Rakesh-honawad/main/assets/tech-stack.svg" />
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats-gray-mu-53.vercel.app/api?username=Rakesh-honawad&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d0d1a&title_color=a855f7&icon_color=8b5cf6&text_color=c4b5fd" height="170" alt="stats"/>
+&nbsp;
+<img src="https://github-readme-stats-gray-mu-53.vercel.app/api/top-langs/?username=Rakesh-honawad&theme=midnight-purple&hide_border=true&layout=compact&langs_count=8&bg_color=0d0d1a&title_color=a855f7&text_color=c4b5fd" height="170" alt="top langs"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Rakesh-honawad&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=a855f7&fire=f093fb&currStreakLabel=a855f7&sideLabels=8b5cf6" width="55%" alt="streak"/>
+
+</div>
 
 ---
 
@@ -90,7 +102,6 @@ A **Software Developer & AI Enthusiast** from Bengaluru 🇮🇳 who loves build
 <a href="https://rakeshhonawad.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
 <a href="mailto:rakeshhonawad46@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://instagram.com/raki_1432_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://x.com/raki_1432_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 <a href="https://facebook.com/rakesh.honawad.31"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 
 </div>
