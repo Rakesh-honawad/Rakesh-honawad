@@ -129,12 +129,11 @@ A **Software Developer & AI Enthusiast** from Bengaluru 🇮🇳 who loves build
 
 ---
 
-## 🏆 Achievements
-
+## 📊 Profile Metrics
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rakesh-honawad&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4" alt="trophies"/>
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rakesh-honawad&theme=dracula" width="95%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rakesh-honawad&theme=dracula"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rakesh-honawad&theme=dracula"/>
 </div>
 
 ---
