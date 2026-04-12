@@ -89,41 +89,17 @@ A **Software Developer & AI Enthusiast** from Bengaluru 🇮🇳 who loves build
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Rakesh-honawad/MystiGlyph">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakesh-honawad&repo=MystiGlyph&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a855f7&icon_color=8b5cf6" alt="MystiGlyph"/>
-</a>
-<a href="https://github.com/Rakesh-honawad/ProcureFlow-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakesh-honawad&repo=ProcureFlow-AI&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a855f7&icon_color=8b5cf6" alt="ProcureFlow-AI"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/Rakesh-honawad/loan-eligibility-engine">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakesh-honawad&repo=loan-eligibility-engine&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a855f7&icon_color=8b5cf6" alt="loan-eligibility-engine"/>
-</a>
-<a href="https://github.com/Rakesh-honawad/Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakesh-honawad&repo=Portfolio&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a855f7&icon_color=8b5cf6" alt="Portfolio"/>
-</a>
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rakesh-honawad&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d0d1a&title_color=a855f7&icon_color=8b5cf6&text_color=c4b5fd" height="170" alt="stats"/>
+<img src="https://github-readme-stats-gray-mu-53.vercel.app/api?username=Rakesh-honawad&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d0d1a&title_color=a855f7&icon_color=8b5cf6&text_color=c4b5fd" height="170" alt="stats"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh-honawad&theme=midnight-purple&hide_border=true&layout=compact&langs_count=8&bg_color=0d0d1a&title_color=a855f7&text_color=c4b5fd" height="170" alt="top langs"/>
+<img src="https://github-readme-stats-gray-mu-53.vercel.app/api/top-langs/?username=Rakesh-honawad&theme=midnight-purple&hide_border=true&layout=compact&langs_count=8&bg_color=0d0d1a&title_color=a855f7&text_color=c4b5fd" height="170" alt="top langs"/>
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Rakesh-honawad&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=a855f7&fire=f093fb&currStreakLabel=a855f7&sideLabels=8b5cf6" width="55%" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=Rakesh-honawad&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=a855f7&fire=f093fb&currStreakLabel=a855f7&sideLabels=8b5cf6" width="55%" alt="streak"/>
 
 </div>
 
