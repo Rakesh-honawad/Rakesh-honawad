@@ -34,11 +34,6 @@ A **Software Developer & AI Enthusiast** from Bengaluru 🇮🇳 who loves build
 - ⚡ &nbsp;**Fun fact** → I turn messy problems into clean scalable code 🚀
 
 <br/>
-
-<a href="https://linkedin.com/in/rakesh-honawad"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-<a href="mailto:rakeshhonawad46@gmail.com"><img src="https://img.shields.io/badge/Gmail-Mail%20Me-D14836?style=flat-square&logo=gmail&logoColor=white" alt="gmail"/></a>
-<a href="https://rakeshhonawad.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=flat-square&logo=firefox&logoColor=white" alt="portfolio"/></a>
-
 <br clear="right"/>
 
 ---
