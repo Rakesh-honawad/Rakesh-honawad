@@ -47,20 +47,42 @@ A **Software Developer & AI Enthusiast** from Bengaluru 🇮🇳 who loves build
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,go,cpp,spring,nodejs,express,fastapi,django,flask&theme=dark&perline=6" alt="languages and backend"/>
+<!-- LANG + BACKEND -->
+<h4>Languages & Backend</h4>
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite,html,css,postgres,mongodb,mysql,redis,firebase,sqlite&theme=dark&perline=6" alt="frontend and databases"/>
+<img src="https://skillicons.dev/icons?i=java,go,python,ts,spring,nodejs,fastapi&theme=light&perline=7" />
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,nginx,githubactions,linux,tensorflow,pytorch,opencv&theme=dark&perline=6" alt="devops and ai"/>
+<br/><br/>
 
-<br/>
+<!-- FRONTEND + DATA -->
+<h4>Frontend & Data</h4>
 
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=1a1a2e" alt="sklearn"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white&labelColor=1a1a2e" alt="langchain"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=1a1a2e" alt="numpy"/>
+<img src="https://skillicons.dev/icons?i=react,tailwind,postgres,mongodb,redis&theme=light&perline=5" />
+
+<br/><br/>
+
+<!-- INFRA -->
+<h4>Cloud & DevOps</h4>
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,linux,githubactions&theme=light&perline=6" />
+
+<br/><br/>
+
+<!-- AI -->
+<h4>AI / ML</h4>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=light&perline=3" />
+
+<br/><br/>
+
+<!-- EXTRA (BADGES SMALLER + CLEAN) -->
+<p>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+</p>
 
 </div>
-
 ---
 
 ## 📊 GitHub Stats
