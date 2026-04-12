@@ -43,7 +43,7 @@ A **Software Developer & AI Enthusiast** from Bengaluru 🇮🇳 who loves build
 
 ---
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/tech-stack.svg" />
+<img src="https://raw.githubusercontent.com/Rakesh-honawad/Rakesh-honawad/main/assets/tech-stack.svg" />
 
 ---
 
