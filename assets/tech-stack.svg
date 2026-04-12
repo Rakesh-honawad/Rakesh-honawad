@@ -1,0 +1,293 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes fadeSlideIn {
+        0% { opacity: 0; transform: translateY(20px); }
+        100% { opacity: 1; transform: translateY(0); }
+      }
+      @keyframes pulse {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0.6; }
+      }
+      @keyframes glow {
+        0%, 100% { filter: drop-shadow(0 0 4px #a855f7); }
+        50% { filter: drop-shadow(0 0 12px #a855f7) drop-shadow(0 0 20px #7c3aed); }
+      }
+      @keyframes slideRight {
+        0% { transform: translateX(-30px); opacity: 0; }
+        100% { transform: translateX(0); opacity: 1; }
+      }
+      @keyframes borderPulse {
+        0%, 100% { stroke-opacity: 0.5; }
+        50% { stroke-opacity: 1; }
+      }
+      @keyframes float {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(-4px); }
+      }
+
+      .bg { fill: #0d0d1a; }
+      .border { fill: none; stroke: #a855f7; stroke-width: 1; animation: borderPulse 3s ease-in-out infinite; }
+      .title { font-family: 'Segoe UI', sans-serif; font-size: 13px; font-weight: 700; fill: #a855f7; letter-spacing: 2px; text-transform: uppercase; }
+      .tag { font-family: 'Segoe UI', sans-serif; font-size: 11px; fill: #e2e8f0; font-weight: 500; }
+      .tag-bg { rx: 6; ry: 6; }
+      .section-label { font-family: 'Segoe UI', sans-serif; font-size: 9px; fill: #6366f1; letter-spacing: 3px; text-transform: uppercase; font-weight: 600; }
+      .dot { fill: #a855f7; }
+      .line { stroke: #1e1b4b; stroke-width: 1; }
+
+      .row1 { animation: fadeSlideIn 0.6s ease forwards; }
+      .row2 { animation: fadeSlideIn 0.8s ease forwards; animation-delay: 0.1s; opacity: 0; }
+      .row3 { animation: fadeSlideIn 0.8s ease forwards; animation-delay: 0.2s; opacity: 0; }
+      .row4 { animation: fadeSlideIn 0.8s ease forwards; animation-delay: 0.3s; opacity: 0; }
+      .row5 { animation: fadeSlideIn 0.8s ease forwards; animation-delay: 0.4s; opacity: 0; }
+      .header { animation: fadeSlideIn 0.5s ease forwards; }
+
+      .t1 { fill: #ED8B00; } /* Java */
+      .t2 { fill: #F7DF1E; } /* JS */
+      .t3 { fill: #3178C6; } /* TS */
+      .t4 { fill: #3776AB; } /* Python */
+      .t5 { fill: #00ADD8; } /* Go */
+      .t6 { fill: #00599C; } /* C++ */
+      .t7 { fill: #6DB33F; } /* Spring */
+      .t8 { fill: #339933; } /* Node */
+      .t9 { fill: #000000; } /* Express */
+      .t10 { fill: #009688; } /* FastAPI */
+      .t11 { fill: #092E20; } /* Django */
+      .t12 { fill: #20232a; } /* React */
+      .t13 { fill: #38B2AC; } /* Tailwind */
+      .t14 { fill: #646CFF; } /* Vite */
+      .t15 { fill: #336791; } /* Postgres */
+      .t16 { fill: #47A248; } /* MongoDB */
+      .t17 { fill: #DD0031; } /* Redis */
+      .t18 { fill: #FF9900; } /* AWS */
+      .t19 { fill: #4285F4; } /* GCP */
+      .t20 { fill: #0db7ed; } /* Docker */
+      .t21 { fill: #326CE5; } /* K8s */
+      .t22 { fill: #FF6F00; } /* TF */
+      .t23 { fill: #EE4C2C; } /* PyTorch */
+      .t24 { fill: #F7931E; } /* sklearn */
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="400" class="bg" rx="12"/>
+  <rect x="1" y="1" width="798" height="398" class="border" rx="12"/>
+
+  <!-- Decorative dots -->
+  <circle cx="20" cy="20" r="3" fill="#a855f7" opacity="0.5"/>
+  <circle cx="780" cy="20" r="3" fill="#a855f7" opacity="0.5"/>
+  <circle cx="20" cy="380" r="3" fill="#a855f7" opacity="0.5"/>
+  <circle cx="780" cy="380" r="3" fill="#a855f7" opacity="0.5"/>
+
+  <!-- Header -->
+  <g class="header">
+    <text x="400" y="35" class="title" text-anchor="middle">⚡ Tech Stack</text>
+    <line x1="160" y1="42" x2="340" y2="42" class="line"/>
+    <circle cx="400" cy="42" r="2" fill="#a855f7"/>
+    <line x1="460" y1="42" x2="640" y2="42" class="line"/>
+  </g>
+
+  <!-- ROW 1: Languages -->
+  <g class="row1">
+    <text x="400" y="68" class="section-label" text-anchor="middle">Languages</text>
+
+    <!-- Java -->
+    <g transform="translate(70, 80)">
+      <rect width="86" height="28" fill="#1a1a2e" rx="6" stroke="#ED8B00" stroke-width="0.5" stroke-opacity="0.6"/>
+      <circle cx="14" cy="14" r="6" fill="#ED8B00"/>
+      <text x="27" y="19" class="tag">Java</text>
+    </g>
+    <!-- JavaScript -->
+    <g transform="translate(165, 80)">
+      <rect width="108" height="28" fill="#1a1a2e" rx="6" stroke="#F7DF1E" stroke-width="0.5" stroke-opacity="0.6"/>
+      <circle cx="14" cy="14" r="6" fill="#F7DF1E"/>
+      <text x="27" y="19" class="tag">JavaScript</text>
+    </g>
+    <!-- TypeScript -->
+    <g transform="translate(282, 80)">
+      <rect width="104" height="28" fill="#1a1a2e" rx="6" stroke="#3178C6" stroke-width="0.5" stroke-opacity="0.6"/>
+      <circle cx="14" cy="14" r="6" fill="#3178C6"/>
+      <text x="27" y="19" class="tag">TypeScript</text>
+    </g>
+    <!-- Python -->
+    <g transform="translate(395, 80)">
+      <rect width="88" height="28" fill="#1a1a2e" rx="6" stroke="#3776AB" stroke-width="0.5" stroke-opacity="0.6"/>
+      <circle cx="14" cy="14" r="6" fill="#3776AB"/>
+      <text x="27" y="19" class="tag">Python</text>
+    </g>
+    <!-- Go -->
+    <g transform="translate(492, 80)">
+      <rect width="64" height="28" fill="#1a1a2e" rx="6" stroke="#00ADD8" stroke-width="0.5" stroke-opacity="0.6"/>
+      <circle cx="14" cy="14" r="6" fill="#00ADD8"/>
+      <text x="27" y="19" class="tag">Go</text>
+    </g>
+    <!-- C++ -->
+    <g transform="translate(565, 80)">
+      <rect width="64" height="28" fill="#1a1a2e" rx="6" stroke="#00599C" stroke-width="0.5" stroke-opacity="0.6"/>
+      <circle cx="14" cy="14" r="6" fill="#00599C"/>
+      <text x="27" y="19" class="tag">C++</text>
+    </g>
+  </g>
+
+  <!-- Divider -->
+  <line x1="40" y1="122" x2="760" y2="122" stroke="#1e1b4b" stroke-width="0.5"/>
+
+  <!-- ROW 2: Backend -->
+  <g class="row2">
+    <text x="400" y="142" class="section-label" text-anchor="middle">Backend &amp; Frameworks</text>
+
+    <g transform="translate(50, 152)">
+      <rect width="100" height="28" fill="#1a1a2e" rx="6" stroke="#6DB33F" stroke-width="0.5" stroke-opacity="0.6"/>
+      <circle cx="14" cy="14" r="6" fill="#6DB33F"/>
+      <text x="27" y="19" class="tag">Spring Boot</text>
+    </g>
+    <g transform="translate(160, 152)">
+      <rect width="84" height="28" fill="#1a1a2e" rx="6" stroke="#339933" stroke-width="0.5" stroke-opacity="0.6"/>
+      <circle cx="14" cy="14" r="6" fill="#339933"/>
+      <text x="27" y="19" class="tag">Node.js</text>
+    </g>
+    <g transform="translate(254, 152)">
+      <rect width="90" height="28" fill="#1a1a2e" rx="6" stroke="#555" stroke-width="0.5" stroke-opacity="0.6"/>
+      <circle cx="14" cy="14" r="6" fill="#888"/>
+      <text x="27" y="19" class="tag">Express.js</text>
+    </g>
+    <g transform="translate(354, 152)">
+      <rect width="80" height="28" fill="#1a1a2e" rx="6" stroke="#009688" stroke-width="0.5" stroke-opacity="0.6"/>
+      <circle cx="14" cy="14" r="6" fill="#009688"/>
+      <text x="27" y="19" class="tag">FastAPI</text>
+    </g>
+    <g transform="translate(444, 152)">
+      <rect width="78" height="28" fill="#1a1a2e" rx="6" stroke="#092E20" stroke-width="0.5" stroke-opacity="0.9"/>
+      <circle cx="14" cy="14" r="6" fill="#2ba977"/>
+      <text x="27" y="19" class="tag">Django</text>
+    </g>
+    <g transform="translate(532, 152)">
+      <rect width="68" height="28" fill="#1a1a2e" rx="6" stroke="#888" stroke-width="0.5" stroke-opacity="0.6"/>
+      <circle cx="14" cy="14" r="6" fill="#aaa"/>
+      <text x="27" y="19" class="tag">Flask</text>
+    </g>
+    <g transform="translate(610, 152)">
+      <rect width="66" height="28" fill="#1a1a2e" rx="6" stroke="#61DAFB" stroke-width="0.5" stroke-opacity="0.6"/>
+      <circle cx="14" cy="14" r="6" fill="#61DAFB"/>
+      <text x="27" y="19" class="tag">React</text>
+    </g>
+  </g>
+
+  <!-- Divider -->
+  <line x1="40" y1="194" x2="760" y2="194" stroke="#1e1b4b" stroke-width="0.5"/>
+
+  <!-- ROW 3: Databases -->
+  <g class="row3">
+    <text x="400" y="214" class="section-label" text-anchor="middle">Databases</text>
+
+    <g transform="translate(100, 224)">
+      <rect width="100" height="28" fill="#1a1a2e" rx="6" stroke="#336791" stroke-width="0.5" stroke-opacity="0.6"/>
+      <circle cx="14" cy="14" r="6" fill="#336791"/>
+      <text x="27" y="19" class="tag">PostgreSQL</text>
+    </g>
+    <g transform="translate(210, 224)">
+      <rect width="96" height="28" fill="#1a1a2e" rx="6" stroke="#47A248" stroke-width="0.5" stroke-opacity="0.6"/>
+      <circle cx="14" cy="14" r="6" fill="#47A248"/>
+      <text x="27" y="19" class="tag">MongoDB</text>
+    </g>
+    <g transform="translate(316, 224)">
+      <rect width="72" height="28" fill="#1a1a2e" rx="6" stroke="#4479A1" stroke-width="0.5" stroke-opacity="0.6"/>
+      <circle cx="14" cy="14" r="6" fill="#4479A1"/>
+      <text x="27" y="19" class="tag">MySQL</text>
+    </g>
+    <g transform="translate(398, 224)">
+      <rect width="68" height="28" fill="#1a1a2e" rx="6" stroke="#DD0031" stroke-width="0.5" stroke-opacity="0.6"/>
+      <circle cx="14" cy="14" r="6" fill="#DD0031"/>
+      <text x="27" y="19" class="tag">Redis</text>
+    </g>
+    <g transform="translate(476, 224)">
+      <rect width="82" height="28" fill="#1a1a2e" rx="6" stroke="#FFCA28" stroke-width="0.5" stroke-opacity="0.6"/>
+      <circle cx="14" cy="14" r="6" fill="#FFCA28"/>
+      <text x="27" y="19" class="tag">Firebase</text>
+    </g>
+    <g transform="translate(568, 224)">
+      <rect width="68" height="28" fill="#1a1a2e" rx="6" stroke="#003B57" stroke-width="0.5" stroke-opacity="0.9"/>
+      <circle cx="14" cy="14" r="6" fill="#0f7fd4"/>
+      <text x="27" y="19" class="tag">SQLite</text>
+    </g>
+  </g>
+
+  <!-- Divider -->
+  <line x1="40" y1="266" x2="760" y2="266" stroke="#1e1b4b" stroke-width="0.5"/>
+
+  <!-- ROW 4: DevOps -->
+  <g class="row4">
+    <text x="400" y="286" class="section-label" text-anchor="middle">Cloud · DevOps · Infra</text>
+
+    <g transform="translate(50, 296)">
+      <rect width="64" height="28" fill="#1a1a2e" rx="6" stroke="#FF9900" stroke-width="0.5" stroke-opacity="0.6"/>
+      <circle cx="14" cy="14" r="6" fill="#FF9900"/>
+      <text x="27" y="19" class="tag">AWS</text>
+    </g>
+    <g transform="translate(124, 296)">
+      <rect width="64" height="28" fill="#1a1a2e" rx="6" stroke="#4285F4" stroke-width="0.5" stroke-opacity="0.6"/>
+      <circle cx="14" cy="14" r="6" fill="#4285F4"/>
+      <text x="27" y="19" class="tag">GCP</text>
+    </g>
+    <g transform="translate(198, 296)">
+      <rect width="78" height="28" fill="#1a1a2e" rx="6" stroke="#0db7ed" stroke-width="0.5" stroke-opacity="0.6"/>
+      <circle cx="14" cy="14" r="6" fill="#0db7ed"/>
+      <text x="27" y="19" class="tag">Docker</text>
+    </g>
+    <g transform="translate(286, 296)">
+      <rect width="100" height="28" fill="#1a1a2e" rx="6" stroke="#326CE5" stroke-width="0.5" stroke-opacity="0.6"/>
+      <circle cx="14" cy="14" r="6" fill="#326CE5"/>
+      <text x="27" y="19" class="tag">Kubernetes</text>
+    </g>
+    <g transform="translate(396, 296)">
+      <rect width="84" height="28" fill="#1a1a2e" rx="6" stroke="#5835CC" stroke-width="0.5" stroke-opacity="0.6"/>
+      <circle cx="14" cy="14" r="6" fill="#5835CC"/>
+      <text x="27" y="19" class="tag">Terraform</text>
+    </g>
+    <g transform="translate(490, 296)">
+      <rect width="68" height="28" fill="#1a1a2e" rx="6" stroke="#009639" stroke-width="0.5" stroke-opacity="0.6"/>
+      <circle cx="14" cy="14" r="6" fill="#009639"/>
+      <text x="27" y="19" class="tag">Nginx</text>
+    </g>
+    <g transform="translate(568, 296)">
+      <rect width="68" height="28" fill="#1a1a2e" rx="6" stroke="#888" stroke-width="0.5" stroke-opacity="0.6"/>
+      <circle cx="14" cy="14" r="6" fill="#aaa"/>
+      <text x="27" y="19" class="tag">Linux</text>
+    </g>
+  </g>
+
+  <!-- Divider -->
+  <line x1="40" y1="338" x2="760" y2="338" stroke="#1e1b4b" stroke-width="0.5"/>
+
+  <!-- ROW 5: AI/ML -->
+  <g class="row5">
+    <text x="400" y="357" class="section-label" text-anchor="middle">AI · ML · Data</text>
+
+    <g transform="translate(120, 366)">
+      <rect width="102" height="24" fill="#1a1a2e" rx="6" stroke="#FF6F00" stroke-width="0.5" stroke-opacity="0.6"/>
+      <circle cx="12" cy="12" r="5" fill="#FF6F00"/>
+      <text x="24" y="16" class="tag" font-size="10">TensorFlow</text>
+    </g>
+    <g transform="translate(232, 366)">
+      <rect width="84" height="24" fill="#1a1a2e" rx="6" stroke="#EE4C2C" stroke-width="0.5" stroke-opacity="0.6"/>
+      <circle cx="12" cy="12" r="5" fill="#EE4C2C"/>
+      <text x="24" y="16" class="tag" font-size="10">PyTorch</text>
+    </g>
+    <g transform="translate(326, 366)">
+      <rect width="80" height="24" fill="#1a1a2e" rx="6" stroke="#5C3EE8" stroke-width="0.5" stroke-opacity="0.6"/>
+      <circle cx="12" cy="12" r="5" fill="#5C3EE8"/>
+      <text x="24" y="16" class="tag" font-size="10">OpenCV</text>
+    </g>
+    <g transform="translate(416, 366)">
+      <rect width="100" height="24" fill="#1a1a2e" rx="6" stroke="#F7931E" stroke-width="0.5" stroke-opacity="0.6"/>
+      <circle cx="12" cy="12" r="5" fill="#F7931E"/>
+      <text x="24" y="16" class="tag" font-size="10">scikit-learn</text>
+    </g>
+    <g transform="translate(526, 366)">
+      <rect width="90" height="24" fill="#1a1a2e" rx="6" stroke="#1C3C3C" stroke-width="0.5" stroke-opacity="0.9"/>
+      <circle cx="12" cy="12" r="5" fill="#4a9eff"/>
+      <text x="24" y="16" class="tag" font-size="10">LangChain</text>
+    </g>
+  </g>
+
+</svg>
