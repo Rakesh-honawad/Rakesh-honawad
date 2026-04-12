@@ -37,28 +37,31 @@ A **Software Developer & AI Enthusiast** from Bengaluru 🇮🇳 who loves build
 <br clear="right"/>
 
 ---
+
 ## ⚡ Tech Stack
 
 <div align="center">
 
 <a href="#">
-  <img src="https://skillicons.dev/icons?i=java,go,python,ts,c,cpp,spring,nodejs,express,fastapi,flask,hibernate&theme=light&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,go,python,ts,c,cpp,spring,nodejs,express,fastapi,flask,hibernate,react&theme=light&perline=13" />
 </a>
+
 <br/>
+
 <a href="#">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,vite,yarn,postgres,mysql,mongodb,redis,firebase&theme=light&perline=8" />
+  <img src="https://skillicons.dev/icons?i=tailwind,html,css,vite,yarn,postgres,mysql,mongodb,redis,firebase,aws,docker,kubernetes&theme=light&perline=13" />
 </a>
+
 <br/>
+
 <a href="#">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,nginx,vercel,netlify,githubactions,linux,git,postman,maven,eclipse,swagger&theme=light&perline=8" />
+  <img src="https://skillicons.dev/icons?i=terraform,nginx,vercel,netlify,githubactions,linux,git,postman,maven,eclipse,swagger,tensorflow,pytorch&theme=light&perline=13" />
 </a>
-<br/>
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=light&perline=8" />
-</a>
+
 <br/>
 
 </div>
+
 ---
 
 ## 📊 GitHub Stats
